@@ -7,7 +7,7 @@ CAKE_MENU = load_menu()
 
 
 # UI
-st.title("🎂 Habibi Home Bakery AI Assistant 🎂")
+st.title("🎂 Habibi Home Cakes AI Assistant 🎂")
 st.markdown("Serving Dubai & Sharjah | Homemade cakes 🎂 | Payment on Delivery")
 
 if "messages" not in st.session_state:
